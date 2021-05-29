@@ -9,7 +9,7 @@ import java.util.Scanner;
 import entities.Department;
 import entities.HourContract;
 import entities.Worker;
-import entities.enums.WorkerLevel;
+import entities.unums.WorkerLevel;
 
 public class ProgramWorker {
 
