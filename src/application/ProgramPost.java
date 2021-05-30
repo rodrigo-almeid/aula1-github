@@ -6,9 +6,9 @@ import java.util.Date;
 import java.util.Locale;
 import java.util.Scanner;
 
-import entities.Comment;
-import entities.HourContract;
-import entities.Post;
+import Model.Comment;
+import Model.HourContract;
+import Model.Post;
 
 public class ProgramPost {
 

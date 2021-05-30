@@ -4,8 +4,8 @@ import java.text.SimpleDateFormat;
 import java.util.Locale;
 import java.util.Scanner;
 
-import entities.Account;
-import entities.BussinessAccount;
+import Model.Account;
+import Model.BussinessAccount;
 
 public class ProgramAccount {
 
@@ -35,7 +35,6 @@ public class ProgramAccount {
 		
 		
 		BussinessAccount acc4 = (BussinessAccount)acc2;
-		acc4.
 		
 		
 		
